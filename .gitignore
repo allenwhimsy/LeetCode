@@ -1,0 +1,16 @@
+*.class
+*.jar
+*.log
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+target/
+bin/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+check_repo.py
+create_repo.py
